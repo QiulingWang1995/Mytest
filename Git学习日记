@@ -4,3 +4,7 @@ Git安装与配置
 2)	配置git全局邮箱与名字
 命令1：git config --global user.email “ql.wang@gmail.com”
 命令2：git config --global user.name “Qiuling Wang”
+
+创建Git仓库
+3)	Git int指令，可以把一个目录快速设置成Git的代码仓库
+4)	Git clone：用于clone一个远程仓库到本地
