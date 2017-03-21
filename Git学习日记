@@ -1,0 +1,6 @@
+Git安装与配置
+1)	安装 hexo-deployer-git
+命令：npm install hexo-deployer-git –save
+2)	配置git全局邮箱与名字
+命令1：git config --global user.email “ql.wang@gmail.com”
+命令2：git config --global user.name “Qiuling Wang”
