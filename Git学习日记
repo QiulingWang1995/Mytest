@@ -8,3 +8,5 @@ Git安装与配置
 创建Git仓库
 3)	Git int指令，可以把一个目录快速设置成Git的代码仓库
 4)	Git clone：用于clone一个远程仓库到本地
+
+修复了一个bug
